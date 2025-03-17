@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moons80
-- 👀 I’m interested in testing and automation :)
+- 👀 I’m interested in software testing and automation 🤖
 - 🌱 I’m continuosly learning new skills with regards to automation
 - 📫 You can reach me via https://www.linkedin.com/in/ailarbarns/ 
 
